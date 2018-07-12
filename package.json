@@ -1,0 +1,20 @@
+{
+  "name": "js-compiler-bot",
+  "version": "0.0.1",
+  "description": "Telegram bot for compiling JavaScript code",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index.js"
+  },
+  "author": "RJ <Rakhimov.5556@gmail.com />",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "lodash": "^4.17.10",
+    "telegraf": "^3.21.2",
+    "vm2": "^3.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.1"
+  }
+}
