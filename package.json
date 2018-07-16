@@ -12,6 +12,7 @@
     "dotenv": "^6.0.0",
     "lodash": "^4.17.10",
     "telegraf": "^3.21.2",
+    "telegraf-ratelimit": "^2.0.0",
     "vm2": "^3.6.2"
   },
   "devDependencies": {
